@@ -1,0 +1,2 @@
+robot_description
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/exercise4/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/exercise4/install -G Unix Makefiles
